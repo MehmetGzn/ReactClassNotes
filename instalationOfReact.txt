@@ -1,0 +1,5 @@
+- npx create-react-app (app name 'lowercase and without strange chracter')
+
+- enter the folder via cd (app name) 
+
+- npm start "This "
