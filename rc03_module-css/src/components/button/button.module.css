@@ -1,0 +1,18 @@
+.btn-div {
+  text-align: center;
+}
+
+.btn-blue {
+  cursor: pointer;
+  background-color: #0069d9;
+  color: #fff;
+  border: none;
+  border-radius: 0.3rem;
+  width: 6rem;
+  margin: 0.4rem;
+  padding: 1rem;
+}
+
+.btn-blue:hover {
+  background-color: #448bd6;
+}

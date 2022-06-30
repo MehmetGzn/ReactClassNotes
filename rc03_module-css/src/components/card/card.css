@@ -1,0 +1,8 @@
+.card-div {
+  width: 50%;
+  min-width: 13rem;
+  margin-top: 3rem;
+  background-color: darkgrey;
+  text-align: center;
+  border-radius: 1rem;
+}
