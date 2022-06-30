@@ -1,0 +1,10 @@
+@import "./_variables.scss";
+
+header {
+  background-color: $DarkBlue;
+  padding: 1rem;
+  width: 100%;
+  .title {
+    text-align: center;
+  }
+}

@@ -1,0 +1,23 @@
+@import "./_variables.scss";
+
+.btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1rem;
+  button {
+    cursor: pointer;
+    border: none;
+    padding: 0.6rem;
+    &:hover {
+      background-color: $Yellow;
+    }
+  }
+  &--small {
+    background-color: $Orange;
+  }
+  &--large {
+    width: 6rem;
+    background-color: $Orange;
+  }
+}
