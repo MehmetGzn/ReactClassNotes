@@ -9,7 +9,7 @@ const Card = () => {
       <h1 className="language-title">Languages</h1>
       <div className="card-container">
         {languages.map((item, index) => {
-          return <Item card={item} />;
+          return <Item card={item} key={index} />;
         })}
       </div>
     </div>

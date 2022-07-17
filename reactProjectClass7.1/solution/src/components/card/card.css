@@ -5,8 +5,9 @@
   margin: 0 auto 0 auto;
   border-radius: 1rem;
   display: grid;
-  grid-template-rows: 10% 90%;
+  grid-template-rows: 8% 92%;
   grid-template-areas: "top" "bottom";
+  overflow: hidden;
 }
 
 .language-title {
